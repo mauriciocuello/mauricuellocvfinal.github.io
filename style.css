@@ -1,0 +1,20 @@
+*{background-color: darkgray;}
+*{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+background-color: rgb(240, 237, 237);
+width: 1000px;
+border: 3px solid rgb(17, 77, 92);
+padding: 10px;
+margin: 5px;
+font-family: 'Tilt Warp', cursive;
+}
+
+h2 {
+    color: blue;
+}
+h3 {
+    color: blue;
+}
